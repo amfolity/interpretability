@@ -1,0 +1,3 @@
+[submodule "clrs"]
+	path = clrs
+	url = git@github.com:amfolity/clrs.git
